@@ -1,0 +1,30 @@
+{
+  "name": "node-worldpay",
+  "version": "0.0.0",
+  "description": "NodeJs module to integrate worldpay(www.worldpay.com) credit card processing in your applications.",
+  "main": "./lib/worldpay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmitrykvochkin/node-worldpay.git"
+  },
+  "keywords": [
+    "worldpay",
+    "credit",
+    "card",
+    "rest",
+    "api",
+    "payments"
+  ],
+  "author": "Dmitry Kvochkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrykvochkin/node-worldpay/issues"
+  },
+  "homepage": "https://github.com/dmitrykvochkin/node-worldpay",
+  "dependencies": {
+    "request": "^2.64.0"
+  }
+}
